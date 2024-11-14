@@ -1,7 +1,7 @@
 ## ENTER YOUR NAME : Thirukaalathessvarar S
 ## ENTER YOUR REGISTER NO : 212222230161
 ## EX. NO.3
-## DATE: 17.10.2024
+## DATE: 
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python
